@@ -8,7 +8,8 @@ This is as an example on how teams can structure their project repositories. Tha
     environment.yml
     conda environment description needed to run this project.
     README.md
-    Description of the project. Sample
+    Description of the project. 
+    Create an open source work flow to measure catchment scale solid ice discharge in Antarctica using ICESat-2 altimetry, landsat/sentinel based velocity tracking, and subglacial topography. By tracking grounding line migration, flux gates ca nbe assigned to calculate Gt discharge and help estimate contributions to sea level rise. Ideally, this work could then be automated and applied across all antarctic catchments to contribute to global sea level rise rates. Exact location(s) for study TBD.
 
 Folders
 contributors
