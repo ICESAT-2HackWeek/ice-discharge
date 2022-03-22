@@ -1,3 +1,5 @@
 Hi, I'm Mark. I recently finished a post baccalaureate degree in geology from the University of Vermont where I specialized in glaciology, structural geology, and remote sensing. My prior degree is in mathematics and statistics from Portland State University. I am currrently seeking funding for my PhD program in ice sheet modelling. 
 
 I pitched the ice-discharge project for hackweek 2022 and am acting not so much as a team lead as a committee chair. Our goal is to create a usable workflow for Antarctic solid ice discharge on the catchment scale within the timeframe of our collaboration here. 
+
+Other fun stuff: I undertook a 60 day field expedition in Alaska this last summer where I took high precision GNSS measurements of glacier flow to compare with Sentinel-1 offset tracking. Other fun geophysics included snow and ice penetrating radar surveys, strucuture from motion models via done photogrammetry, and continuing a mass balance record by firn coring and digging *so many* mass balance pits.
