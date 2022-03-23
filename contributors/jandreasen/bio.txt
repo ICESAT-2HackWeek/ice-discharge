@@ -1,1 +1,3 @@
-Hi, I'm Julia. I'm a Ph.D. student at the University of Minnesota and I study snow accumulation rates along coastal ice rises in West Antarctica. I received my B.S. in Atmospheric Sciences at the Ohio State University and my M.Res in Climate and Atmospheric Science at the University of Leeds. I am
+Hi, I'm Julia. I'm a Ph.D. student at the University of Minnesota and I study snow accumulation rates along coastal ice rises in West Antarctica. I received my B.S. in Atmospheric Sciences at the Ohio State University and my M.Res in Climate and Atmospheric Science at the University of Leeds. 
+
+I am excited to be part of the Ice Discharge team and looking forward to learning how to integrate ICESat-2 products through this week's tutorials. 
